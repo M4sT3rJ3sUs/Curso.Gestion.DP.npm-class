@@ -1,0 +1,20 @@
+{
+  "name": "curso.gestion.dp.npm",
+  "version": "1.0.0",
+  "description": "Construir un paquete para node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Jesus Perez",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.3",
+    "webpack": "^5.73.0"
+  }
+}
